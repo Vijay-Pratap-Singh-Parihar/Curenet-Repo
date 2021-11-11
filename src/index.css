@@ -1,0 +1,17 @@
+/* Add a black background color to the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the search box inside the navigation bar */
+input[type="text"] {
+  float: right;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 26px;
+  background-color: #80e5ff;
+  margin-top: 8px;
+  margin-right: 260px;
+  font-size: 17px;
+}
