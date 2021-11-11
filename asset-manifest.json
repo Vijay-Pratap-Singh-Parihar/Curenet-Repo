@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Curenet-Repo/static/css/main.4ec76005.chunk.css",
+    "main.js": "/Curenet-Repo/static/js/main.2915e925.chunk.js",
+    "main.js.map": "/Curenet-Repo/static/js/main.2915e925.chunk.js.map",
+    "runtime-main.js": "/Curenet-Repo/static/js/runtime-main.52547d4e.js",
+    "runtime-main.js.map": "/Curenet-Repo/static/js/runtime-main.52547d4e.js.map",
+    "static/css/2.1d697dd6.chunk.css": "/Curenet-Repo/static/css/2.1d697dd6.chunk.css",
+    "static/js/2.6ebfd060.chunk.js": "/Curenet-Repo/static/js/2.6ebfd060.chunk.js",
+    "static/js/2.6ebfd060.chunk.js.map": "/Curenet-Repo/static/js/2.6ebfd060.chunk.js.map",
+    "index.html": "/Curenet-Repo/index.html",
+    "static/css/2.1d697dd6.chunk.css.map": "/Curenet-Repo/static/css/2.1d697dd6.chunk.css.map",
+    "static/css/main.4ec76005.chunk.css.map": "/Curenet-Repo/static/css/main.4ec76005.chunk.css.map",
+    "static/js/2.6ebfd060.chunk.js.LICENSE.txt": "/Curenet-Repo/static/js/2.6ebfd060.chunk.js.LICENSE.txt",
+    "static/media/curenet.7957dfa6.png": "/Curenet-Repo/static/media/curenet.7957dfa6.png",
+    "static/media/all.min.css": "/Curenet-Repo/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/user.ce4c37c8.jpg": "/Curenet-Repo/static/media/user.ce4c37c8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52547d4e.js",
+    "static/css/2.1d697dd6.chunk.css",
+    "static/js/2.6ebfd060.chunk.js",
+    "static/css/main.4ec76005.chunk.css",
+    "static/js/main.2915e925.chunk.js"
+  ]
+}
