@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Curenet-Repo/static/css/main.4ec76005.chunk.css",
-    "main.js": "/Curenet-Repo/static/js/main.2915e925.chunk.js",
-    "main.js.map": "/Curenet-Repo/static/js/main.2915e925.chunk.js.map",
+    "main.js": "/Curenet-Repo/static/js/main.13966e85.chunk.js",
+    "main.js.map": "/Curenet-Repo/static/js/main.13966e85.chunk.js.map",
     "runtime-main.js": "/Curenet-Repo/static/js/runtime-main.52547d4e.js",
     "runtime-main.js.map": "/Curenet-Repo/static/js/runtime-main.52547d4e.js.map",
     "static/css/2.1d697dd6.chunk.css": "/Curenet-Repo/static/css/2.1d697dd6.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.1d697dd6.chunk.css",
     "static/js/2.6ebfd060.chunk.js",
     "static/css/main.4ec76005.chunk.css",
-    "static/js/main.2915e925.chunk.js"
+    "static/js/main.13966e85.chunk.js"
   ]
 }
